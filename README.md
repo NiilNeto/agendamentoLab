@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Sistema de Agendamento de Laboratórios IF
 
 
@@ -157,3 +158,6 @@ GET /bookings — Listar agendamentos por laboratório/ano/mês
 
 POST /bookings — Criar agendamento
 
+=======
+# agendamentoLab
+>>>>>>> c9f0473c4a9c1fefe8475e6cdf64f6d8f0dbef07
